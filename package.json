@@ -1,0 +1,14 @@
+{
+  "name": "desktopapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "zakorchevna",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^36.1.0"
+  }
+}
